@@ -41,6 +41,8 @@ During data-quality checks:
 Analyze — Compared ride length and ride frequency between member and casual riders, by day of week and by month.
 Visualize — Built summary charts in R (ggplot2) and extended visuals in Power BI.
 
+##Visuals from the analysis
+
 ## Key Findings
 1. Casual riders take longer trips. Median ride length is ~12.7 minutes for casual riders vs. ~8.7 minutes for members; average duration is ~25.2 vs. ~12.5 minutes respectively (pulled up by longer outlier trips).
 2. Usage patterns differ by day. Casual riders show stronger weekend usage — suggesting leisure-driven use — while members ride more consistently across weekdays, suggesting commuting behavior.
